@@ -5,7 +5,8 @@ Happy Work From Home!!!
 
 Concept:
 This tool simply moves the mouse attached to your machine at randon locations on the desktop every 5 secs. This ensure that your
-system is not idle more than 5 secs and hence prevents auto locks and/or idle status.
+system is not idle more than 5 secs and hence prevents auto locks and/or idle status. There is no MSI installers created for this app as there might be some organizational restrictions at your work location. However, as a prerequisite, you need to have Microsoft Framework 2.0 installed in your machine. You could download the same at the below mentioned location:
+https://www.microsoft.com/en-us/download/details.aspx?id=6523 
 
 Features:
 Nothing fancy! Initiates with a small form to enter your organizaion name. This name will be used to create a taskbar icon
